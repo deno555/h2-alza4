@@ -2,9 +2,9 @@
   <ion-page>
     <ion-header>
       <ion-toolbar class="toolbar">
-        <ion-title class="ion-text-center">Stáže</ion-title>
-        <ion-icon color="primary" :icon="icons.personCircleOutline"/>
-        <ion-button  color="light" :icon="icons.personCircleOutline"></ion-button>
+        <ion-title class="ion-text-center">Stážisti</ion-title>
+        <!--ion-icon color="primary" :icon="icons.personCircleOutline"/>
+        <ion-button  color="light" :icon="icons.personCircleOutline"></ion-button-->
       </ion-toolbar>
     </ion-header>
     <ion-content>
@@ -59,7 +59,7 @@ left: 10px;
 
 .ion-text-center{
   font-size: 25px;
-  top: 8px;
+  top: 14px;
   }
 </style>
 
