@@ -1,0 +1,7 @@
+{
+  "name": "h2alza4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
